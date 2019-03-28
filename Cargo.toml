@@ -1,0 +1,6 @@
+[package]
+name = "rust_fizzbuzz"
+version = "0.1.0"
+authors = ["guitarman <guitarman78@freenet.de>"]
+
+[dependencies]
